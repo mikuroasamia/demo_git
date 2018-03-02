@@ -1,0 +1,3 @@
+Ceci est un fichier texte de qualité.
+
+Vive Git et GitHub !
